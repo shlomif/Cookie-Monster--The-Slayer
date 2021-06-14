@@ -1,23 +1,22 @@
-<s id="Terminator--Liberation" lang="en" title="Terminator: Liberation - A Self-Referential Terminator Parody">
+<s id="Cookie-Monster--The-Slayer" lang="en" title="Cookie Monster - The Slayer">
 
 <s id="about" title="About this screenplay">
 
 [
 
-A Terminator parody that takes place in
-<a href="https://en.wikipedia.org/wiki/Tel_Aviv">Tel Aviv, Israel</a> in
-<a href="https://en.wikipedia.org/wiki/Passover">Passover</a> התשפ״א‎ (5781), 2021 AD
-(around the time that <a href="https://shlomif.fandom.com/wiki/Olamot_Con">Olamot Con</a> takes place).
+<a href="https://twitter.com/shlomif/status/1403524835091812352">Shlomi Fish on Twitter: "I had an idea for a 'Cookie Monster - the slayer' spoof on my own https://t.co/e3rvAZ0CCT , which is in turn marketed as a #Buffy parody. #SelinaMandrake . @sesamestreet #parody"</a>
 
 ]
 
-[This text is Copyright by <a href="https://www.shlomifish.org/">Shlomi Fish</a>, 2019 and is
+[This text is Copyright by <a href="https://www.shlomifish.org/">Shlomi Fish</a>, 2021 and is
 made available under the
 <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
 Attribution Noncommercial Share-Alike 4.0 Unported Licence (CC-by-nc-sa)</a>
 (or at your option - any later version).]
 
 </s>
+
+<s id="main-scene" title="Main Scene">
 
 <s id="emma-watson-finishes-telling-a-story" title="Emma Watson Finishes storytelling “The Lion King”">
 
@@ -695,59 +694,9 @@ Cher: awesome! I'll take Two-bee.
 
 <s id="dedications" title="Dedications">
 
-[
+[ TODO ]
 
-A wise man once said that “It's the way of the world to praise dead saints
-and persecute living ones”. Well, I’ve decided to not give in, and
-praise a few living great men, who are likely <a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacker-monarchs">messiahs</a> or "hacker monarchs".
-
-I hereby praise <a href="https://en.wikipedia.org/wiki/Pope_Benedict_XVI">the former Pope Benedict XVI</a>, who resigned back in 2013 (see <a href="https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#departing_pope_about_twitter">this mini-essay I wrote shortly after that</a> for the reasons),
-the Japanese
-<a href="https://en.wikipedia.org/wiki/Akihito">Emperor Emeritus Akihito</a>,
-the head of the Linux kernel project <a href="https://en.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</a>,
-the former president of the Free Software Foundation,
-<a href="https://en.wikipedia.org/wiki/Richard_Stallman">Richard M. Stallman (RMS)</a>,
-and <a href="https://en.wikipedia.org/wiki/Guido_van_Rossum">Guido van Rossum</a>,
-who is a software developer who created the Python programming language.
-
-They all became hacker kings due to either birth, or by choice,
-and they all <a href="https://buffyfanfiction.fandom.com/wiki/Selinaverse#Slaying_in_the_Selinaverse">"slew"</a> themselves (metaphorically) and retired
-(similar to <a href="https://www.shlomifish.org/philosophy/computers/open-source/linus-torvalds-bus-factor/">Solon's tactic</a>);
-at least temporarily.
-
-I also dedicate it to <a href="https://en.wikipedia.org/wiki/Elizabeth_II">Queen Elizabeth II</a>, who
-is a good woman, a great woman, and likely may admit to being a hacker monarch
-by now. While "the media" may paint her as senile, I suspect she is not.
-However, she may opt to follow suit and become queen regnant Emerita (and still
-remain a wonderful and effective hacker monarch/messiah), due to old age.
-
-Note that I do not intend to demote the alternatives to the projects they headed,
-or claim that I fully approve of all their actions and opinions.
-I am a secular Jewish resident and citizen of Israel, and while I like and use
-Python, I use many other programming languages (whether Turing-complete or not).
-I also do not always agree
-with Stallman's opinions and I <a href="https://github.com/shlomif/what-i-learned-from-porting-to-freebsd">recently
-tried porting some of my FOSS projects</a> to FreeBSD. But we can all learn
-from each other.
-
-Also note that I do not wish them (or anyone else) to physically die, soon
-or ever. I just want people to acknowledge their worth, and
-appreciate them, including when they are still alive.
-
-]
-
-[
-
-That put aside, the names of the two terminators, which were chosen as Hebrew
-names which were cognate with "Arnold" and "Emma", coincide with those of my
-late grandfather-on-my-father's side, Aharon Fish, whom I knew and loved up to
-my twenties, and his younger sister, Channah Fish, who lived up to 103 and
-passed away a few years ago (as of 2021).  They were both Warsaw-born Jews and
-the only known surviving siblings from their family after WWII.
-
-I dedicate this screenplay to their memory as well.
-
-]
+</s>
 
 </s>
 
