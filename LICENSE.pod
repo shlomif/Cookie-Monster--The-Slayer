@@ -1,0 +1,13 @@
+=encoding utf8
+
+=head1 LICENSE
+
+=head2 Text
+
+The screenplay “Cookie Monster: The Slayer” is fan fiction,
+and as far as I am concerned is Copyright by Shlomi Fish, 2021 and
+made available under the
+L<http://creativecommons.org/licenses/by-nc-sa/4.0/>, either version 4.0 or at
+your option any later version.
+
+=cut
