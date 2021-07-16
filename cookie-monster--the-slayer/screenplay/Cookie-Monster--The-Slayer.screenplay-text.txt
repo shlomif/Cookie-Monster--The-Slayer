@@ -42,7 +42,7 @@ Emma_Watson: This is <a href="https://buffy.fandom.com/wiki/Pergamum_Codex">The 
 
 Emma_Watson: You ate my copy of The Codex?
 
-Cookie_Monster: yeah. Me needs to eat book to digest it.
+Cookie_Monster: yeah! Me needs to eat book to digest it.
 
 Emma_Watson: Well, I hope you don't eat my mobile which also contains
 a copy.
